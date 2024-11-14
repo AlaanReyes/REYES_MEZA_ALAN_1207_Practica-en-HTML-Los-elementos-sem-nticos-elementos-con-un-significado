@@ -15,6 +15,38 @@ Practica en HTML, Los elementos semánticos = elementos con un significado.
 ![image](https://github.com/user-attachments/assets/4d408675-3331-4ed2-801c-4201311d8cd8)
 ![image](https://github.com/user-attachments/assets/f2e14303-d4fe-4aaa-91c4-c26920a23ecc)
 ![image](https://github.com/user-attachments/assets/9272bac6-eff1-455b-a91b-6ac332002a70)
+# Ejemplo 2 Utilice CSS para darle estilo al elemento <article>:
+![image](https://github.com/user-attachments/assets/351c7619-ac38-467f-9de0-e42864cdf7c0)
+# EJECUTADO
+![image](https://github.com/user-attachments/assets/93c51bd6-426e-4cb2-bbb2-b4005708473d)
+![image](https://github.com/user-attachments/assets/62f692a2-51cf-421f-9b78-1d44cee67b7a)
+# header
+![image](https://github.com/user-attachments/assets/4c703674-556f-47a4-9078-7ce5cee41083)
+# ejecutado
+![image](https://github.com/user-attachments/assets/6b8d93d6-5238-4e5d-8b1f-71075216b40e)
+# footer
+![image](https://github.com/user-attachments/assets/7dedaf02-fcd6-46a8-94a6-64a83b83e09b)
+# EJECUTADO
+![image](https://github.com/user-attachments/assets/0586be38-9838-41e5-a73b-cb313e08b3bf)
+# NAV
+![image](https://github.com/user-attachments/assets/de051cee-6bf5-4133-9fd3-960eb88447cb)
+# ejecutado
+![image](https://github.com/user-attachments/assets/6ea3b36b-bd1a-4cc9-8826-b25a5825ddb7)
+# ASIDE
+![image](https://github.com/user-attachments/assets/bc6185db-fc07-482a-b3c4-025b9e143990)
+# ejecutado
+![image](https://github.com/user-attachments/assets/1ad4e487-2199-426a-b5ff-ae2da451b26c)
+# Ejemplo 2 Utilice CSS para darle estilo al elemento <aside>:
+![image](https://github.com/user-attachments/assets/7c7e2788-1867-4df0-8feb-e25a49cf55dc)
+# ejecutado
+![image](https://github.com/user-attachments/assets/38f59554-17b1-495f-94ed-e41a5bb618b1)
+# Elementos HTML <figure> y <figcaption>
+![image](https://github.com/user-attachments/assets/6adb0737-a0bc-4be0-8cbc-618a11e354df)
+# ejecutado
+![image](https://github.com/user-attachments/assets/bab8ef5c-ae78-493a-aa1d-e9a4a6dc5699)
+
+# CODIGOS USANDO CADA UNO DE LOS Los elementos semánticos
+
 # CODIGO 1
 ![image](https://github.com/user-attachments/assets/8f8c7c93-247a-4e45-859b-fe423f442151)
 # EJECUTADO
