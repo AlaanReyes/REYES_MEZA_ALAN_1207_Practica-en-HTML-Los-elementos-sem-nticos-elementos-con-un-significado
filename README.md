@@ -10,7 +10,7 @@ Practica en HTML, Los elementos semánticos = elementos con un significado.
 # CODIGO 
 ![image](https://github.com/user-attachments/assets/6812ff1c-b8d7-4d95-903b-5dda5c879e35)
 # EJECUTADO
-![image](https://github.com/user-attachments/assets/63ef7bd5-2f0c-40a4-bcab-d59f3f59ad5d)
+![image](https://github.com/user-attachments/assets/05effe84-b35c-4237-bf9c-4b81fb5cc8be)
 ![image](https://github.com/user-attachments/assets/9f616d56-8d32-40ce-a6e5-89176ca4cdf8)
 ![image](https://github.com/user-attachments/assets/4d408675-3331-4ed2-801c-4201311d8cd8)
 ![image](https://github.com/user-attachments/assets/f2e14303-d4fe-4aaa-91c4-c26920a23ecc)
